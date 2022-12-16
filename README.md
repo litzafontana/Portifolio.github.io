@@ -19,7 +19,7 @@
 
 - 📫 Você pode me encontrar por aqui **litzafontana@gmail.com**
 
-- ⚡ No tempo vago eu **:microphone: Canto e toco violão :guitar:**
+- ⚡ ⚡ No tempo vago eu **:microphone: Canto e toco violão :guitar:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
