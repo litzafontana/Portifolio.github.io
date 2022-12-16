@@ -11,15 +11,17 @@
 
 - 👯 Estou procurando vagas de **Data Science, Analista de dados, Bunisses Analytics, Analista de Inovação**
 
-- :sunglasses: Esse projeto vale a pena ver [Análise de dados - Cancelamento de cartão de crédito](https://github.com/litzafontana/An-lise-de-Dados_Cart-o_de_cr-dito)
-
 - 💬 Me pergunte sobre **Python, Power Bi, Tecnologia e Automação**
 
 - 👨‍💻 Alguns projetos que já fiz [https://github.com/litzafontana](https://github.com/litzafontana)
 
 - 📫 Você pode me encontrar por aqui **litzafontana@gmail.com**
 
-- ⚡ ⚡ No tempo vago eu **:microphone: Canto e toco violão :guitar:**
+-   Esse projeto vale a pena ver [Análise de dados - Cancelamento de cartão de crédito](https://github.com/litzafontana/An-lise-de-Dados_Cart-o_de_cr-dito)
+
+- ⚡ No tempo vago eu **Canto e toco violão**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
